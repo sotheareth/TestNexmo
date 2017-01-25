@@ -161,7 +161,7 @@ STATUS_COMMS_FAILURE = 13;
 
 ```sh
 Jan 25, 2017 3:27:36 PM com.nexmo.messaging.sdk.NexmoSmsClient submitMessage
-INFO: .. SUBMITTED NEXMO-HTTP URL [ https://rest.nexmo.com/sms/xml?api_key=415bb7f8&api_secret=50e4e786d08993c7&from=85510757608&to=85510757608&type=text&text=Hello+World%21&status-report-req=false ] -- response [ <?xml version='1.0' encoding='UTF-8' ?>
+INFO: .. SUBMITTED NEXMO-HTTP URL [ https://rest.nexmo.com/sms/xml?api_key=[api_key]&api_secret=[api_secret]&from=85510757608&to=85510757608&type=text&text=Hello+World%21&status-report-req=false ] -- response [ <?xml version='1.0' encoding='UTF-8' ?>
 <mt-submission-response>
     <messages count='1'>
         <message>
