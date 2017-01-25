@@ -1,3 +1,4 @@
+code[
 Nexmo Java
 
 You use Nexmo Java to rapidly integrate Nexmo functionality into your Apps:
@@ -154,3 +155,4 @@ STATUS_INVALID_OR_MISSING_MSG = 7;
 STATUS_TOPIC_NOT_FOUND = 8;
 STATUS_TOPIC_PERMISSION_FAILURE = 9;
 STATUS_COMMS_FAILURE = 13;
+]
