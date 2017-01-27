@@ -6,8 +6,8 @@ import com.nexmo.messaging.sdk.messages.TextMessage;
 
 public class NexmoTest {
 	
-	 public static final String API_KEY = "415bb7f8";
-	    public static final String API_SECRET = "50e4e786d08993c7";
+	 public static final String API_KEY = "your api key";
+	    public static final String API_SECRET = "your api secret";
 
 	    public static final String SMS_FROM = "85510757608";
 	    public static final String SMS_TO = "85510757608";
